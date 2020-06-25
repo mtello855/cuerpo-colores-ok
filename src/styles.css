@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border: solid #000000 4px;
+  box-shadow: 2px 2px 5px #666;
+  margin: 0 auto;
+  border-radius: 0%;
+  -webkit-transition: 500ms;
+}
+
+.brazos {
+  display: flex;
+}
